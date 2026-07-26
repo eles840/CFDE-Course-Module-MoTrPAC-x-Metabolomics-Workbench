@@ -3,8 +3,7 @@
 # Integrative Metabolomics: A NIH Common Fund Data Ecosystem workflow to extract and analyze metabolomics data sets from The MoTrPAC Study and the Metabolomics Workbench
 
 ## Overview
-This notebook extracts and analyzes metabolomics data sets from the **NIH Common Fund Data Ecosystem** using the **Metabolomics Workbench (NMDR)** REST API.
-The workflow focuses on **rat exercise training** metabolomics data from **MoTrPAC** and a non-MoTrPAC **comparator** study hosted in the Metabolomics Workbench.
+In this notebook, you will extract and analyze metabolomics data sets from two NIH Common Fund programs as part of the NIH Common Fund Data Ecosystem: MoTrPAC and the Metabolomics Workbench. As an example to analyze studies from multiple sources, this workflow is designed to extract data from rat exercise training studies and to analyze overlapping metabolites in heart tissue.
 
 ## Learning Objectives
 1. Leverage Metabolomics Workbench API queries to find **MoTrPAC** and **Metabolomics Workbench** studies for harmonized analysis.
