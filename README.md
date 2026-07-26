@@ -1,6 +1,6 @@
 # CFDE-Course-Module-MoTrPAC-x-Metabolomics-Workbench
 
-# Integrative Metabolomics: A NIH Common Fund Data Ecosystem workflow to harmonize metabolomics data sets from The MoTrPAC Study and the Metabolomics Workbench
+# Integrative Metabolomics: A NIH Common Fund Data Ecosystem workflow to extract and analyze metabolomics data sets from The MoTrPAC Study and the Metabolomics Workbench
 
 ## Overview
 This notebook extracts and analyzes metabolomics data sets from the **NIH Common Fund Data Ecosystem** using the **Metabolomics Workbench (NMDR)** REST API.
